@@ -22,32 +22,21 @@
    ![Registro](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Principal%20Administrador.png)
    
 6. `Listas`: Cada clase que lo precisa dispone de su propia pantalla lista donde poder, modificar, borrar y actualizar los datos pertinentes de cada clase (`Data grid view`).
-   ![Imagen (1).png](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Listar%20libros.png)
+   ![Lista libros](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Listar%20libros.png)
 
-   ![Imagen (1).png](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Listar%20prestamos.png)
+   ![Lista prestamos](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Listar%20prestamos.png)
 
-   ![Imagen (1).png](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Liastar%20usuarios.png)
+   ![Lista usuarios](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Liastar%20usuarios.png)
    
 8. `Formularios`: Cada clase dispone de su formulario de creación.
-9. `Auxiliares`: ventanas extra que ofrecen información necesaria al usuario.
+   ![Crear libro](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Crear%20libro.png)
+
+   ![Crear prestamo](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Crear%20prestamo.png)
+
+   ![Crear usuario] (https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Registrar%20usuario%20administrador.png)
+   ![Crear usuario] (https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Registrar%20usuario%20administrador%202.png)
+   ![Crear usuario] (https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Registrar%20usuario%20administrador%203.png)
+   
+10. `Auxiliares`: ventanas extra que ofrecen información necesaria al usuario.
 
 [https://www.figma.com/file/YDeozWJrW4mD2U1EwLX8qq/Untitled?type=design&node-id=0%3A1&mode=design&t=ZxdW1vlDOnSUMjca-1](https://www.figma.com/file/YDeozWJrW4mD2U1EwLX8qq/Untitled?type=design&node-id=0%3A1&mode=design&t=ZxdW1vlDOnSUMjca-1)
-
-## Error sin resolver:
-
-<aside>
-⚠️ **Registro usuario:**
-
-Cuando se registra un usuario nuevo, este aparece en el data gridview pero al tratar de borrarlo devuelve null, he intentado buscarlo por la lista y por la bbdd y en ambos casos sigue permaneciendo el mismo error. He introducido un mensaje de aviso para que no se pare la ejecución. AL cerrarlo y volver a abrir ya te permite eliminarlo.
-
-</aside>
-
-![error1.PNG](Untitled%20f21944cc385643169095429fecbc6dae/error1.png)
-
-<aside>
-⚠️ **Dificultades y otros errores resueltos:**
-
-- `DELETE ON CASCADE`: Para que al borrar un usuario o libro no saltase un error al estar como claves foráneas en los prestamos.
-- Modificar los libros disponibles cuándo se crean, borran o cambian de estado los prestamos.
-- Búsquedas: crear `querys` para buscar datos en la base de datos que contemplen cualquier valor que se asemeje, pudiendo buscar por cualquier criterio.
-</aside>

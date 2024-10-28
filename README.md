@@ -3,38 +3,6 @@
 ![Aplicación Escritor Gestión de Biblioteca.png](Untitled%20f21944cc385643169095429fecbc6dae/Aplicacin_Escritor_Gestin_de_Biblioteca.png)
 
 # Gestión biblioteca: Letras
-
-### Requisitos
-
-- Formularios: 8-14
-- BBDD: CRUD → 1-4 clases
-- Controladores: 10-18
-- MVC
-- Compilación, ejecución y estándares de codificación
-
-### Estándares mínimos
-
-- 8 formularios
-- L/E en formato
-- Complir MVC
-- Compilación correcta
-- Sin errores en tiempo de ejecución
-- Consulta, modificación, inserción y borrado
-- Configuración para general ejecutables
-- Configuración para generar documentación XML
-
-### Controladores obligatorios
-
-- Label
-- Text box
-- Button
-- Combo box
-- Group box
-- Date time picker
-- Numeric hup down
-- Menu strip
-- Data grid view
-
 ## Clases y funciones principales:
 
 - `Usuario`: Información de usuario
@@ -47,7 +15,9 @@
 ## Ventanas
 
 1. `Login`: El usuario introduce su correo y contraseña y si está registrado se valora si es administrador o no para llevarle a una ventana principal de usuario o de administrado.
+   ![Login](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Login.png)
 2. `Registro usuario`: Si el usuario no esta registrado aparece una opción para registrarse, y si acepta aparece la ventana.
+   ![Registro](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Registro%20usuario.png)
 3. `Principal administrador`: El usuario puede acceder a las listas de los diferentes campos, libros, usuarios o prestamos.
 4. `Listas`: Cada clase que lo precisa dispone de su propia pantalla lista donde poder, modificar, borrar y actualizar los datos pertinentes de cada clase (`Data grid view`).
 5. `Formularios`: Cada clase dispone de su formulario de creación.

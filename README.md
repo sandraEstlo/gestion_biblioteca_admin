@@ -14,12 +14,22 @@
 
 1. `Login`: El usuario introduce su correo y contraseña y si está registrado se valora si es administrador o no para llevarle a una ventana principal de usuario o de administrado.
    ![Login](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Login.png)
+   
 2. `Registro usuario`: Si el usuario no esta registrado aparece una opción para registrarse, y si acepta aparece la ventana.
    ![Registro](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Registro%20usuario.png)
+   
 3. `Principal administrador`: El usuario puede acceder a las listas de los diferentes campos, libros, usuarios o prestamos.
-4. `Listas`: Cada clase que lo precisa dispone de su propia pantalla lista donde poder, modificar, borrar y actualizar los datos pertinentes de cada clase (`Data grid view`).
-5. `Formularios`: Cada clase dispone de su formulario de creación.
-6. `Auxiliares`: ventanas extra que ofrecen información necesaria al usuario.
+   ![Registro](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Principal%20Administrador.png)
+   
+6. `Listas`: Cada clase que lo precisa dispone de su propia pantalla lista donde poder, modificar, borrar y actualizar los datos pertinentes de cada clase (`Data grid view`).
+   ![Imagen (1).png](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Listar%20libros.png)
+
+   ![Imagen (1).png](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Listar%20prestamos.png)
+
+   ![Imagen (1).png](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Liastar%20usuarios.png)
+   
+8. `Formularios`: Cada clase dispone de su formulario de creación.
+9. `Auxiliares`: ventanas extra que ofrecen información necesaria al usuario.
 
 [https://www.figma.com/file/YDeozWJrW4mD2U1EwLX8qq/Untitled?type=design&node-id=0%3A1&mode=design&t=ZxdW1vlDOnSUMjca-1](https://www.figma.com/file/YDeozWJrW4mD2U1EwLX8qq/Untitled?type=design&node-id=0%3A1&mode=design&t=ZxdW1vlDOnSUMjca-1)
 

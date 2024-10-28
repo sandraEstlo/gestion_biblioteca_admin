@@ -1,5 +1,3 @@
-# .
-
 ![Aplicación Escritor Gestión de Biblioteca.png](Untitled%20f21944cc385643169095429fecbc6dae/Aplicacin_Escritor_Gestin_de_Biblioteca.png)
 
 # Gestión biblioteca: Letras

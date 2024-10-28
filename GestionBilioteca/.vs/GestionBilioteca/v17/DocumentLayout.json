@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|d:\\dam2\\di\\estebanlopezsandra_gestionbiblioteca\\gestionbilioteca\\gestionbilioteca\\view\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|solutionrelative:gestionbilioteca\\view\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|d:\\dam2\\di\\estebanlopezsandra_gestionbiblioteca\\gestionbilioteca\\gestionbilioteca\\controller\\controlador_gestionbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|solutionrelative:gestionbilioteca\\controller\\controlador_gestionbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|d:\\dam2\\di\\estebanlopezsandra_gestionbiblioteca\\gestionbilioteca\\gestionbilioteca\\view\\frm_listar_prestamos_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|solutionrelative:gestionbilioteca\\view\\frm_listar_prestamos_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|d:\\dam2\\di\\estebanlopezsandra_gestionbiblioteca\\gestionbilioteca\\gestionbilioteca\\view\\frm_listar_prestamos_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|solutionrelative:gestionbilioteca\\view\\frm_listar_prestamos_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|d:\\dam2\\di\\estebanlopezsandra_gestionbiblioteca\\gestionbilioteca\\gestionbilioteca\\view\\frm_nuevo_prestamo_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|solutionrelative:gestionbilioteca\\view\\frm_nuevo_prestamo_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|d:\\dam2\\di\\estebanlopezsandra_gestionbiblioteca\\gestionbilioteca\\gestionbilioteca\\view\\frm_registar_devolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|solutionrelative:gestionbilioteca\\view\\frm_registar_devolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|d:\\dam2\\di\\estebanlopezsandra_gestionbiblioteca\\gestionbilioteca\\gestionbilioteca\\view\\frm_registar_devolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|solutionrelative:gestionbilioteca\\view\\frm_registar_devolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|d:\\dam2\\di\\estebanlopezsandra_gestionbiblioteca\\gestionbilioteca\\gestionbilioteca\\view\\frm_listar_libros_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|solutionrelative:gestionbilioteca\\view\\frm_listar_libros_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|d:\\dam2\\di\\estebanlopezsandra_gestionbiblioteca\\gestionbilioteca\\gestionbilioteca\\controller\\controlador_gestionprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|solutionrelative:gestionbilioteca\\controller\\controlador_gestionprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|d:\\dam2\\di\\estebanlopezsandra_gestionbiblioteca\\gestionbilioteca\\gestionbilioteca\\view\\frm_listar_libros_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38AAD36-B26F-4314-8A2D-9020E1F55689}|GestionBilioteca\\GestionBilioteca.csproj|solutionrelative:gestionbilioteca\\view\\frm_listar_libros_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controlador_GestionBiblioteca.cs",
+              "DocumentMoniker": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\Controller\\Controlador_GestionBiblioteca.cs",
+              "RelativeDocumentMoniker": "GestionBilioteca\\Controller\\Controlador_GestionBiblioteca.cs",
+              "ToolTip": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\Controller\\Controlador_GestionBiblioteca.cs",
+              "RelativeToolTip": "GestionBilioteca\\Controller\\Controlador_GestionBiblioteca.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:14:06.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_Login.cs [Design]",
+              "DocumentMoniker": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\View\\Frm_Login.cs",
+              "RelativeDocumentMoniker": "GestionBilioteca\\View\\Frm_Login.cs",
+              "ToolTip": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\View\\Frm_Login.cs [Design]",
+              "RelativeToolTip": "GestionBilioteca\\View\\Frm_Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:40:45.64Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Controlador_GestionPrestamos.cs",
+              "DocumentMoniker": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\Controller\\Controlador_GestionPrestamos.cs",
+              "RelativeDocumentMoniker": "GestionBilioteca\\Controller\\Controlador_GestionPrestamos.cs",
+              "ToolTip": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\Controller\\Controlador_GestionPrestamos.cs",
+              "RelativeToolTip": "GestionBilioteca\\Controller\\Controlador_GestionPrestamos.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAcwKwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:28:07.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Frm_Listar_Libros_Administrador.cs",
+              "DocumentMoniker": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\View\\Frm_Listar_Libros_Administrador.cs",
+              "RelativeDocumentMoniker": "GestionBilioteca\\View\\Frm_Listar_Libros_Administrador.cs",
+              "ToolTip": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\View\\Frm_Listar_Libros_Administrador.cs",
+              "RelativeToolTip": "GestionBilioteca\\View\\Frm_Listar_Libros_Administrador.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAWwHwAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:23:07.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Frm_Listar_Libros_Administrador.cs [Design]",
+              "DocumentMoniker": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\View\\Frm_Listar_Libros_Administrador.cs",
+              "RelativeDocumentMoniker": "GestionBilioteca\\View\\Frm_Listar_Libros_Administrador.cs",
+              "ToolTip": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\View\\Frm_Listar_Libros_Administrador.cs [Design]",
+              "RelativeToolTip": "GestionBilioteca\\View\\Frm_Listar_Libros_Administrador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:23:06.242Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_Listar_Prestamos_Administrador.cs",
+              "DocumentMoniker": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\View\\Frm_Listar_Prestamos_Administrador.cs",
+              "RelativeDocumentMoniker": "GestionBilioteca\\View\\Frm_Listar_Prestamos_Administrador.cs",
+              "ToolTip": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\View\\Frm_Listar_Prestamos_Administrador.cs",
+              "RelativeToolTip": "GestionBilioteca\\View\\Frm_Listar_Prestamos_Administrador.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAYwJ4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:22:45.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frm_Listar_Prestamos_Administrador.cs [Design]",
+              "DocumentMoniker": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\View\\Frm_Listar_Prestamos_Administrador.cs",
+              "RelativeDocumentMoniker": "GestionBilioteca\\View\\Frm_Listar_Prestamos_Administrador.cs",
+              "ToolTip": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\View\\Frm_Listar_Prestamos_Administrador.cs [Design]",
+              "RelativeToolTip": "GestionBilioteca\\View\\Frm_Listar_Prestamos_Administrador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:22:35.639Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frm_Nuevo_Prestamo_Administrador.cs [Design]",
+              "DocumentMoniker": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\View\\Frm_Nuevo_Prestamo_Administrador.cs",
+              "RelativeDocumentMoniker": "GestionBilioteca\\View\\Frm_Nuevo_Prestamo_Administrador.cs",
+              "ToolTip": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\View\\Frm_Nuevo_Prestamo_Administrador.cs [Design]",
+              "RelativeToolTip": "GestionBilioteca\\View\\Frm_Nuevo_Prestamo_Administrador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:21:28.499Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Frm_Registar_Devolucion.cs",
+              "DocumentMoniker": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\View\\Frm_Registar_Devolucion.cs",
+              "RelativeDocumentMoniker": "GestionBilioteca\\View\\Frm_Registar_Devolucion.cs",
+              "ToolTip": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\View\\Frm_Registar_Devolucion.cs",
+              "RelativeToolTip": "GestionBilioteca\\View\\Frm_Registar_Devolucion.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:20:40.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Frm_Registar_Devolucion.cs [Design]",
+              "DocumentMoniker": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\View\\Frm_Registar_Devolucion.cs",
+              "RelativeDocumentMoniker": "GestionBilioteca\\View\\Frm_Registar_Devolucion.cs",
+              "ToolTip": "D:\\DAM2\\DI\\EstebanLopezSandra_GestionBiblioteca\\GestionBilioteca\\GestionBilioteca\\View\\Frm_Registar_Devolucion.cs [Design]",
+              "RelativeToolTip": "GestionBilioteca\\View\\Frm_Registar_Devolucion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:14:34.966Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

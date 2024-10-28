@@ -33,9 +33,9 @@
 
    ![Crear prestamo](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Crear%20prestamo.png)
 
-   ![Crear usuario] (https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Registrar%20usuario%20administrador.png)
-   ![Crear usuario] (https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Registrar%20usuario%20administrador%202.png)
-   ![Crear usuario] (https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Registrar%20usuario%20administrador%203.png)
+   ![Crear usuario](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Registrar%20usuario%20administrador.png)
+   ![Crear usuario](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Registrar%20usuario%20administrador%202.png)
+   ![Crear usuario](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Registrar%20usuario%20administrador%203.png)
    
 10. `Auxiliares`: ventanas extra que ofrecen información necesaria al usuario.
 

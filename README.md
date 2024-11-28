@@ -38,5 +38,3 @@
    ![Crear usuario](https://github.com/sandraEstlo/gestion_biblioteca_admin/blob/main/imagenes/Registrar%20usuario%20administrador%203.png)
    
 10. `Auxiliares`: ventanas extra que ofrecen información necesaria al usuario.
-
-[https://www.figma.com/file/YDeozWJrW4mD2U1EwLX8qq/Untitled?type=design&node-id=0%3A1&mode=design&t=ZxdW1vlDOnSUMjca-1](https://www.figma.com/file/YDeozWJrW4mD2U1EwLX8qq/Untitled?type=design&node-id=0%3A1&mode=design&t=ZxdW1vlDOnSUMjca-1)
